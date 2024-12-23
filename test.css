@@ -1,13 +1,21 @@
 * {
     margin: 0;
     padding: 0;
+    background-color: blueviolet;
 }
-
-.screen {
-    height: 100px;
-    width: 500px;
-    background-color: aqua;
+.Mycal{
+    color: bisque;
+    margin-left: 50px;
+    font-size: 25px;
+    margin-top: 10px;
+    
 }
-.txt {
-    background-color: aqua;
+.display {
+    height: 50px;
+    width: 300px;
+    background-color: beige;
+    justify-content: center;
+    display: flex;
+    margin-left: 50px;
+    margin-top: 20px;
 }
