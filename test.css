@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.screen {
+    height: 100px;
+    width: 500px;
+    background-color: aqua;
+}
+.txt {
+    background-color: aqua;
+}
